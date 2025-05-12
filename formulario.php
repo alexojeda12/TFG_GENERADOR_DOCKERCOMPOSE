@@ -27,7 +27,7 @@ $archivo = $_POST['nombre_archivo'] ?? 'docker_compose';
 <body class="container py-5">
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-4">
     <div class="container-fluid">
-        <a class="navbar-brand" href="index.php">DockerGen</a>
+        <a class="navbar-brand" href="inicio.php">DockerGen</a>
         <div class="collapse navbar-collapse justify-content-end">
             <ul class="navbar-nav">
                 <li class="nav-item">
